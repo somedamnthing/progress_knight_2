@@ -1558,7 +1558,7 @@ gameData.requirements = {
 	"Dark Knowledge": new EvilRequirement([getTaskElement("Dark Knowledge")], [{requirement: 5000}]),
 	"Void Influence": new EvilRequirement([getTaskElement("Void Influence")], [{requirement: 50000}]),
 	"Time Loop": new EvilRequirement([getTaskElement("Time Loop")], [{requirement: 1250000}]),
-	"Evil Incarnate": new EvilRequirement([getTaskElement("Evil Incarnate")], [{requirement: 10000000}]),
+	"Evil Incarnate": new EvilRequirement([getTaskElement("Evil Incarnate")], [{requirement: 1750000}]),
 
 
 	
