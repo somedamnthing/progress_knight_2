@@ -120,10 +120,10 @@ const skillBaseData = {
 	
 	
     "Dark Influence": {name: "Dark Influence", maxXp: 100, effect: 0.01, description: "All XP"},
-    "Evil Control": {name: "Evil Control", maxXp: 100, effect: 0.1, description: "Evil Gain"},
+    "Evil Control": {name: "Evil Control", maxXp: 100, effect: 0.01, description: "Evil Gain"},
     "Intimidation": {name: "Intimidation", maxXp: 100, effect: -0.01, description: "Reduced Expenses"},
     "Demon Training": {name: "Demon Training", maxXp: 100, effect: 0.01, description: "All XP"},
-    "Blood Meditation": {name: "Blood Meditation", maxXp: 100, effect: 0.01, description: "Evil Gain"},
+    "Blood Meditation": {name: "Blood Meditation", maxXp: 100, effect: 1, description: "Evil Gain"},
     "Demon's Wealth": {name: "Demon's Wealth", maxXp: 100, effect: 0.002, description: "Class Pay"},
 	"Dark Knowledge": {name: "Dark Knowledge", maxXp: 100, effect: 0.003, description: "Class XP"},
 	"Void Influence": {name: "Void Influence", maxXp: 100, effect: 0.0028, description: "All XP"},
